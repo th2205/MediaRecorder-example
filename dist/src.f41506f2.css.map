@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"src.f41506f2.css","sourceRoot":"..","sourcesContent":["#video {\n  width: 500px;\n  height: 500px;\n  border: 1px solid black;\n}\n"]}
